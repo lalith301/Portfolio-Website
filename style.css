@@ -6,7 +6,7 @@ body {
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
-    background-image: url('https://img.freepik.com/free-photo/flat-lay-workstation-with-copy-space-tablet_23-2148430857.jpg?t=st=1724378038~exp=1724381638~hmac=766861cb029e3f068b53350858326b9b2334ec720e0d218d480d02f8fc1d2dcf&w=2000');
+    background-image: url("./img.jpg");
     background-size: 1760px;
 
 }
@@ -347,3 +347,8 @@ body {
 }
 
 
+
+.form-controls{
+    border-radius: 8px;
+    font-size: medium;
+}
